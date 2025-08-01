@@ -1,1 +1,1 @@
-Access this app using this <a href="https://mlapplinearregression-predictstudentscore.streamlit.app/">link</a>.
+Access this app using the <a href="https://mlapplinearregression-predictstudentscore.streamlit.app/">link</a>.
